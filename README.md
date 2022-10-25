@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salmah-AbdulRahman. I know Python, SQL and Excel.
 - 👀 I’m interested in Data Analysis and Data Engineering.
-- 🌱 I’m currently learning Python, R, SQL and PowerBI.
-- 💞️ I’m looking to collaborate on Data Engineering, Data Analysis and Machine Learning projects.
+- 🌱 I’m currently learning R, Tableau, Python, and SQL. I am working on projects solo to explore my skills.
+- 💞️ I’m looking to collaborate on Data Engineering, and Data Analysis projects.
 - 📫 Reach me via mail on [issasalmah@gmail.com]
 
 
