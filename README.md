@@ -4,7 +4,6 @@
 - 💞️ I know data management, data cleaning, data visualization, and data storytelling.
 - 💞️ I am result-oriented and have strong problem-solving and analytical thinking skills. That is how I know a career in data science is right for me.
 - 💞️ In addition, I possess strengths in research, writing, communication, and policy analysis.
-- 👀 I am looking to transition into a full-time data science or data analyst role.
 - 👀 My skills and expertise make me a valuable addition to any team seeking innovation, creativity, and social impact.
 - 📫 Reach me via mail at [issasalmah@gmail.com]
 
